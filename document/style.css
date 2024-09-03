@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+background-color: ghostwhite;
+
+}
+.Download_button{
+ background-color: gold;
+ text-decoration: none;
+ font-weight: bold;
+
+}
+
+.article{
+ text-align: left;
+ margin: 10px 50px 0px 40px;
+
+}
