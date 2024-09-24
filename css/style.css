@@ -17,19 +17,18 @@ background-color: white;
 
 .article{
  text-align: left;
- margin: 10px 50px 0px 40px;
+ margin-top: 60px;
 
 }
 
-thead{
- margin: 0 auto;
-
-}
 
 .header_part{
  height: 50px;
  width: 100%;
  background-color: ghostwhite;
+ position: relative;
+ top: 0px;
+ position: fixed;
 
 
 }
